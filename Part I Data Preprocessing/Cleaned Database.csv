@@ -1,0 +1,129 @@
+Title,Operating Condition,,,,Anode Catalyst,,,,,,,,Cathode Catalyst,,,,Coating Method,,,,,,,Polymers,,,Output
+,Operating Temperature (?),Operating Pressure (bar),Flow Rate (mL min-1),Active Area (cm2),Ir wt. %,Ru wt.%,O wt. %,Pure_0/Supported_1,C wt. %,Particle Size,Surface Area,Anode Precious Metal Loading (mg cm-2 Ir/Ru/Pt/Pd),Pt wt. %,Particle Size,Surface Area,Cathode Precious Metal Loading (mg cm-2 Pt/Pd),CCM_0/GDE_1,Membrane Type,Membrane Thickness (?m),EW,Water Uptake,Expansion,Ionic Conductivity,Polymer Type,I/C in Anode,I/C in Cathode,Current at 1.8 V
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",80,1,40,4,85.52915767,0,14.47084233,0,0,,,1.282937365,60,,,0.3,0,,125,1100,,,,,0.22,1,1.49337
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",80,1,40,4,85.52915767,0,14.47084233,0,0,,,1.282937365,60,,,0.3,0,,125,1100,,,,,0.22,1,1.33455
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",80,1,40,4,85.52915767,0,14.47084233,0,0,,,1.282937365,60,,,0.3,0,,115,360,,,,,0.1,0.28,3.49714
+"All-Hydrocarbon MEA for PEM Water Electrolysis 
+Combining Low Hydrogen Crossover and High Efficiency",80,1,40,4,85.52915767,0,14.47084233,0,0,,,1.282937365,60,,,0.3,0,,115,360,,,,,0.1,0.28,1.54244
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",80,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,125,1100,,,,,0,0,1.78286
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",80,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,125,1100,,,,,0,0,1.76004
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",80,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,125,1100,,,,,0,0,2.54952
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",80,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,125,1100,,,,,0,0,1.3329
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",80,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,125,1100,,,,,0,0,2.9597
+"A novel work-flow to study Ir electrode thinning and dissolution in proton
+exchange membrane water electrolyzers",80,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,125,1100,,,,,0,0,2.69118
+Development and performance evaluation of Proton Exchange Membrane (PEM) based hydrogen generator for portable applications,80,1.5,4.166666667,100,85.52915767,0,14.47084233,0,0,,,1.026349892,100,,,0.4,0,,175,1100,,,,,0.299736894,0.113758053,0.53847
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,80,1,1.5,5,100,0,0,0,0,,,1,46,,,0.184,0,,50,1100,,,,,0.374007744,0.624647855,0.80336
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,80,1,1.5,5,40,0,0,1,60,,,0.4,46,,,0.184,0,,50,1100,,,,,0.281176263,0.546633737,1.06368
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,80,1,1.5,5,40,0,0,1,60,,,0.4,46,,,0.184,0,,50,1100,,,,,0.285472473,0.554027878,1.44685
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,80,1,1.5,5,100,0,0,0,0,,,1,46,,,0.184,0,,50,1100,,,,,0.264651442,0.491437084,1.34086
+Oxide-supported Ir nanodendrites with high activity and durability for the oxygen evolution reaction in acid PEM water electrolyzers,80,1,1.5,5,40,0,12.7397,1,0,,,0.4,46,,,0.184,0,,50,1100,,,,,0.25658492,0.533679577,1.50273
+Calculating the Electrochemically Active Surface Area of Iridium Oxide in Operating Proton Exchange Membrane Electrolyzers,80,1,107.2756895,25,85.52915767,0,14.47084233,0,0,,,0.348205152,100,,,0.55759543,0,,184.4523983,1100,,,,,1,1,0.88186245
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",80,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,4.10261
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",80,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,4.40567
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",90,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,5.23032
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,5.23032
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,0.248
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,0.29216
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,3.22654
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.25,100,,,0.25,0,,50,825,,,,,0,0,4.15914
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.375,100,,,0.25,0,,50,825,,,,,0,0,4.23206
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,0.5,100,,,0.25,0,,50,825,,,,,0,0,4.40564
+"NSTF Advances for PEM Electrolysis - the Effect of Alloying on Activity
+of NSTF Electrolyzer Catalysts and Performance of NSTF Based PEM
+Electrolyzers",100,1,75,50,100,0,0,0,0,,,1,100,,,0.25,0,,50,825,,,,,0,0,4.48883
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,20,1,20,5,74.37742114,16.76812396,8.854454898,0,0,,,2.734366353,100,,,3,0,,125,1100,,,,,0.267789667,0.419134153,0.76132
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,40,1,20,5,74.37742114,16.76812396,8.854454898,0,0,,,2.734366353,100,,,3,0,,125,1100,,,,,0.201789391,0.246510782,1.12909
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,60,1,20,5,74.37742114,16.76812396,8.854454898,0,0,,,2.734366353,100,,,3,0,,125,1100,,,,,0.230951622,0.327786126,1.50952
+Fully printed and integrated electrolyzer cells with additive manufacturing for high-efficiency water splitting,80,1,20,5,74.37742114,16.76812396,8.854454898,0,0,,,2.734366353,100,,,3,0,,125,1100,,,,,0.16460804,0.128906863,2.70971
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,40,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,0,3,0.169430807
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,50,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,0,3,0.194208727
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,60,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,0,3,0.317984263
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,40,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,0.909090909,3,0.327631597
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,50,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,0.909090909,3,0.364668557
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,60,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,0.909090909,3,0.438816447
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,40,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,2.727272727,3,0.853731503
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,50,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,2.727272727,3,1.03900288
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,60,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,2.727272727,3,1.185162423
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,40,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,4.545454545,3,0.723473177
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,50,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,4.545454545,3,0.8026931
+The role of Nafion content in sputtered IrO2 based anodes for low temperature PEM water electrolysis,60,1.57,100,5.29,100,0,0,0,0,,,0.55,100,,,0.5,1,,175,1100,,,,,4.545454545,3,0.960349223
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,80,1,170.4751056,37.70187597,85.52915767,0,14.47084233,0,0,,,0.085529158,20,,,0.708260779,1,,175,1100,,,,,5,2.305975152,0.90533831
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,80,1,77.42553304,19.99378136,85.52915767,0,14.47084233,0,0,,,0.171058315,20,,,0.738396482,1,,175,1100,,,,,2.5,1.384231215,0.97930449
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,80,1,68.19816646,15.06164193,85.52915767,0,14.47084233,0,0,,,0.256587473,20,,,0.742630275,1,,175,1100,,,,,1.666666667,1.304913997,0.95672291
+Sputtered iridium oxide films as electrocatalysts for water splitting via PEM electrolysis,80,1,177.3537945,46.44061618,85.52915767,0,14.47084233,0,0,,,0.342116631,20,,,0.716088856,1,,175,1100,,,,,1.25,2.695305855,0.94658426
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,0.427645788,40,,,0.5,0,,50,1100,,,,,0.33,0.33,1.54998
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,0.855291577,40,,,0.5,0,,50,1100,,,,,0.33,0.33,1.98773
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,1.282937365,40,,,0.5,0,,50,1100,,,,,0.33,0.33,2.44049
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,1.710583153,40,,,0.5,0,,50,1100,,,,,0.33,0.33,2.87779
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,2.56587473,40,,,0.5,0,,50,1100,,,,,0.33,0.33,3.20917
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,3.421166307,40,,,0.5,0,,50,1100,,,,,0.33,0.33,2.65596
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,3.421166307,40,,,0.05,0,,50,1100,,,,,0.33,0.33,2.23654
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,3.421166307,40,,,0.2,0,,50,1100,,,,,0.33,0.33,2.78679
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,3.421166307,40,,,1,0,,50,1100,,,,,0.33,0.33,2.9198
+Study of catalyst sprayed membrane under irradiation method to prepare high performance membrane electrode assemblies for solid polymer electrolyte water electrolysis,80,1,50,4,85.52915767,0,14.47084233,0,0,,,3.421166307,40,,,2,0,,50,1100,,,,,0.33,0.33,3.25455
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.50730402
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.54286298
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,2,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.59170546
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,2.5,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.61520708
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,3,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.55737267
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.111111111,0.428571429,0.7918
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.25,0.428571429,0.7918
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.667,0.428571429,0.35308
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,50,1100,,,,,0.428571429,0.428571429,0.72944
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,125,1100,,,,,0.428571429,0.428571429,0.36266
+Investigations on high performance proton exchange membrane water electrolyzer,45,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.667,0.428571429,0.9866
+Investigations on high performance proton exchange membrane water electrolyzer,60,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.667,0.428571429,1.23607
+Investigations on high performance proton exchange membrane water electrolyzer,75,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.667,0.428571429,1.50211
+Investigations on high performance proton exchange membrane water electrolyzer,80,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.667,0.428571429,1.59901
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,20,0,0,1,40,,,0.3,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,1.07302
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,100,0,0,0,0,,,1.5,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.67434
+Investigations on high performance proton exchange membrane water electrolyzer,30,1,10,20,20,0,0,1,40,,,0.3,100,,,1,0,,88,1100,,,,,0.428571429,0.428571429,0.80647
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,60,1,2,25,85.52915767,0,14.47084233,0,0,,,2.138228942,62.14057076,,,0.8,0,,175,1100,,,,,0.361332014,0.240665267,1.08795
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,80,1,2,25,85.52915767,0,14.47084233,0,0,,,2.138228942,63.45910565,,,0.8,0,,175,1100,,,,,0.348796808,0.250319708,1.44419
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,56,1,2,25,85.52915767,0,14.47084233,0,0,,,2.138228942,61.73340883,,,0.8,0,,175,1100,,,,,0.41609371,0.303549883,1.11847
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,58,1,2,25,85.52915767,0,14.47084233,0,0,,,2.138228942,63.88676437,,,0.8,0,,175,1100,,,,,0.436633416,0.184765936,1.13541
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,62,1,2,25,85.52915767,0,14.47084233,0,0,,,2.138228942,65.6723106,,,0.8,0,,175,1100,,,,,0.459179103,0.279702178,1.18415
+Initial approaches in benchmarking and round robin testing for proton exchange membrane water electrolyzers,64,1,2,25,85.52915767,0,14.47084233,0,0,,,2.138228942,64.29533761,,,0.8,0,,175,1100,,,,,0.446643758,0.265617659,1.2125
+Efficient and Stable Low Iridium Loaded Anodes for PEM Water Electrolysis Made Possible by Nanofiber Interlayers,80,1,40,5,85.52915767,0,14.47084233,0,0,,,1.2,40,,,0.5,0,,125,1100,,,,,0.67,0.67,1.7681
+Efficient and Stable Low Iridium Loaded Anodes for PEM Water Electrolysis Made Possible by Nanofiber Interlayers,80,1,40,5,85.52915767,0,14.47084233,0,0,,,0.2,40,,,0.5,0,,125,1100,,,,,0.67,0.67,1.36934
+Efficient and Stable Low Iridium Loaded Anodes for PEM Water Electrolysis Made Possible by Nanofiber Interlayers,80,1,40,5,85.52915767,0,14.47084233,0,0,,,0.2,40,,,0.5,0,,125,1100,,,,,0.67,0.67,0.88624
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,57.25484701,,,0.8,0,,175,1100,,,,,0.336689866,0.230980813,1.99179
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,57.86464151,,,0.8,0,,175,1100,,,,,0.286056419,0.231387366,1.99179
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,59.00710904,,,0.8,0,,175,1100,,,,,0.293560947,0.236309593,1.69207
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,60.56907602,,,0.8,0,,175,1100,,,,,0.348193311,0.26292885,1.57724
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,58.91114485,,,0.8,0,,175,1100,,,,,0.392512756,0.280061335,1.55778
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,59.29664324,,,0.8,0,,175,1100,,,,,0.275483208,0.250495304,1.44296
+An analysis of degradation phenomena in polymer electrolyte membrane water electrolysis,80,1,25,17.64,85.52915767,0,14.47084233,0,0,,,2.25,60.94810444,,,0.8,0,,175,1100,,,,,0.203403821,0.153760734,1.36057
+Performance of a PEM electrolyzer using RuIrCoOx electrocatalysts for the oxygen evolution electrode,25,1,63,4,50,26.30208333,8.333333333,0,0,,,2.062026291,10,,,0.377212257,0,,125,1100,,,,,0.72519596,0.863294513,0.03144573
+Performance of a PEM electrolyzer using RuIrCoOx electrocatalysts for the oxygen evolution electrode,25,1,63,4,74.37742114,16.76812396,8.854454898,0,0,,,2.319046959,10,,,0.352136828,0,,125,1100,,,,,0.73255738,0.8805082,0.02318375
+Analysis of Inkjet Printed Catalyst Coated Membranes for Polymer Electrolyte Electrolyzers,80,1,9.1,5,85.52915767,0,14.47084233,0,0,,,1.000691145,46.7,,,0.1,0,,25,1100,,,,,0.052631579,0.428571429,3.07101
+Analysis of Inkjet Printed Catalyst Coated Membranes for Polymer Electrolyte Electrolyzers,80,1,9.1,5,85.52915767,0,14.47084233,0,0,,,1.000691145,46.7,,,0.1,0,,25,1100,,,,,0.052631579,0.428571429,3.07101
